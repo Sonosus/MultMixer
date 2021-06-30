@@ -168,17 +168,6 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 4800 7025 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Amplifier_Operational:TL072 U?
-U 3 1 60DD91E3
-P 5225 6825
-F 0 "U?" H 5183 6871 50  0000 L CNN
-F 1 "TL072" H 5183 6780 50  0000 L CNN
-F 2 "" H 5225 6825 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5225 6825 50  0001 C CNN
-	3    5225 6825
-	1    0    0    -1  
-$EndComp
-$Comp
 L Amplifier_Operational:TL074 U?
 U 4 1 60DD4FE5
 P 2600 4025
@@ -636,7 +625,6 @@ Wire Wire Line
 	5275 6525 5125 6525
 Wire Wire Line
 	5125 6450 5125 6525
-Connection ~ 5125 6525
 Wire Wire Line
 	4650 6450 4650 6525
 Connection ~ 4650 6525
@@ -645,7 +633,6 @@ Wire Wire Line
 Connection ~ 4650 7125
 Wire Wire Line
 	5125 7200 5125 7125
-Connection ~ 5125 7125
 $Comp
 L power:GND #PWR?
 U 1 1 60E0DD8C
@@ -1211,4 +1198,17 @@ $EndComp
 Connection ~ 9200 3025
 Wire Wire Line
 	9200 3025 9250 3025
+$Comp
+L Amplifier_Operational:TL074 U?
+U 5 1 60E1517D
+P 5225 6825
+F 0 "U?" H 5183 6871 50  0000 L CNN
+F 1 "TL074" H 5183 6780 50  0000 L CNN
+F 2 "" H 5175 6925 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5275 7025 50  0001 C CNN
+	5    5225 6825
+	1    0    0    -1  
+$EndComp
+Connection ~ 5125 7125
+Connection ~ 5125 6525
 $EndSCHEMATC
