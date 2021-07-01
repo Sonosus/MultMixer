@@ -1247,4 +1247,29 @@ $EndComp
 Connection ~ 3425 6850
 Wire Wire Line
 	3425 6850 3500 6850
+$Comp
+L Connector:Conn_01x02_Male J?
+U 1 1 60DE3CCC
+P 10075 2925
+F 0 "J?" H 10183 3106 50  0000 C CNN
+F 1 "In 2" H 10183 3015 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10075 2925 50  0001 C CNN
+F 3 "~" H 10075 2925 50  0001 C CNN
+	1    10075 2925
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9875 2925 9800 2925
+Connection ~ 9800 2925
+$Comp
+L power:GND #PWR?
+U 1 1 60DE9AA5
+P 9875 3025
+F 0 "#PWR?" H 9875 2775 50  0001 C CNN
+F 1 "GND" H 9880 2852 50  0000 C CNN
+F 2 "" H 9875 3025 50  0001 C CNN
+F 3 "" H 9875 3025 50  0001 C CNN
+	1    9875 3025
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC
