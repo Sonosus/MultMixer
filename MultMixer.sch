@@ -345,7 +345,7 @@ U 1 1 60DE839A
 P 1350 1275
 F 0 "J1" H 1458 1456 50  0000 C CNN
 F 1 "Mult IN" H 1458 1365 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1350 1275 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1350 1275 50  0001 C CNN
 F 3 "~" H 1350 1275 50  0001 C CNN
 	1    1350 1275
 	1    0    0    -1  
@@ -401,7 +401,7 @@ U 1 1 60DF34F4
 P 3400 1475
 F 0 "J3" H 3372 1449 50  0000 R CNN
 F 1 "Out 1" H 3372 1358 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3400 1475 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3400 1475 50  0001 C CNN
 F 3 "~" H 3400 1475 50  0001 C CNN
 	1    3400 1475
 	-1   0    0    -1  
@@ -423,7 +423,7 @@ U 1 1 60DF7DD8
 P 3400 2300
 F 0 "J4" H 3372 2274 50  0000 R CNN
 F 1 "Out 2" H 3372 2183 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3400 2300 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3400 2300 50  0001 C CNN
 F 3 "~" H 3400 2300 50  0001 C CNN
 	1    3400 2300
 	-1   0    0    -1  
@@ -445,7 +445,7 @@ U 1 1 60DF9DB9
 P 3425 3200
 F 0 "J6" H 3397 3174 50  0000 R CNN
 F 1 "Out 3" H 3397 3083 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3425 3200 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3425 3200 50  0001 C CNN
 F 3 "~" H 3425 3200 50  0001 C CNN
 	1    3425 3200
 	-1   0    0    -1  
@@ -467,7 +467,7 @@ U 1 1 60DFBF21
 P 3400 4025
 F 0 "J5" H 3508 4206 50  0000 C CNN
 F 1 "Out 4" H 3325 4125 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3400 4025 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3400 4025 50  0001 C CNN
 F 3 "~" H 3400 4025 50  0001 C CNN
 	1    3400 4025
 	-1   0    0    -1  
@@ -489,7 +489,7 @@ U 1 1 60DFDCC9
 P 3425 4775
 F 0 "J7" H 3533 4956 50  0000 C CNN
 F 1 "Out 5" H 3325 4875 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3425 4775 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 3425 4775 50  0001 C CNN
 F 3 "~" H 3425 4775 50  0001 C CNN
 	1    3425 4775
 	-1   0    0    -1  
@@ -929,7 +929,7 @@ U 1 1 60DE470C
 P 5750 1450
 F 0 "J8" H 5858 1631 50  0000 C CNN
 F 1 "In 1" H 5858 1540 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5750 1450 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 5750 1450 50  0001 C CNN
 F 3 "~" H 5750 1450 50  0001 C CNN
 	1    5750 1450
 	1    0    0    -1  
@@ -951,7 +951,7 @@ U 1 1 60DEB212
 P 5750 2250
 F 0 "J9" H 5858 2431 50  0000 C CNN
 F 1 "In 2" H 5858 2340 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5750 2250 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 5750 2250 50  0001 C CNN
 F 3 "~" H 5750 2250 50  0001 C CNN
 	1    5750 2250
 	1    0    0    -1  
@@ -962,7 +962,7 @@ U 1 1 60DEB988
 P 5750 3000
 F 0 "J10" H 5858 3181 50  0000 C CNN
 F 1 "In 3" H 5858 3090 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5750 3000 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 5750 3000 50  0001 C CNN
 F 3 "~" H 5750 3000 50  0001 C CNN
 	1    5750 3000
 	1    0    0    -1  
@@ -973,7 +973,7 @@ U 1 1 60DEBF00
 P 5750 3800
 F 0 "J11" H 5858 3981 50  0000 C CNN
 F 1 "In 4" H 5858 3890 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5750 3800 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 5750 3800 50  0001 C CNN
 F 3 "~" H 5750 3800 50  0001 C CNN
 	1    5750 3800
 	1    0    0    -1  
@@ -984,7 +984,7 @@ U 1 1 60DEC30E
 P 5750 4525
 F 0 "J12" H 5858 4706 50  0000 C CNN
 F 1 "In 5" H 5858 4615 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5750 4525 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 5750 4525 50  0001 C CNN
 F 3 "~" H 5750 4525 50  0001 C CNN
 	1    5750 4525
 	1    0    0    -1  
@@ -1253,7 +1253,7 @@ U 1 1 60DE3CCC
 P 10075 2925
 F 0 "J?" H 10183 3106 50  0000 C CNN
 F 1 "In 2" H 10183 3015 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10075 2925 50  0001 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 10075 2925 50  0001 C CNN
 F 3 "~" H 10075 2925 50  0001 C CNN
 	1    10075 2925
 	-1   0    0    -1  
@@ -1262,10 +1262,10 @@ Wire Wire Line
 	9875 2925 9800 2925
 Connection ~ 9800 2925
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 60DE9AA5
 P 9875 3025
-F 0 "#PWR?" H 9875 2775 50  0001 C CNN
+F 0 "#PWR0101" H 9875 2775 50  0001 C CNN
 F 1 "GND" H 9880 2852 50  0000 C CNN
 F 2 "" H 9875 3025 50  0001 C CNN
 F 3 "" H 9875 3025 50  0001 C CNN

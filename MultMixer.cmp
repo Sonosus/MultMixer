@@ -1,0 +1,403 @@
+Cmp-Mod V01 Created by PcbNew   date = 7/1/2021 5:13:40 PM
+
+BeginCmp
+TimeStamp = 60DD365C
+Path = /60DEC30E
+Reference = J12;
+ValeurCmp = In 5;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3646
+Path = /60DEBF00
+Reference = J11;
+ValeurCmp = In 4;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3630
+Path = /60DEB988
+Reference = J10;
+ValeurCmp = In 3;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD361A
+Path = /60DEB212
+Reference = J9;
+ValeurCmp = In 2;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3604
+Path = /60DE470C
+Reference = J8;
+ValeurCmp = In 1;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD35EE
+Path = /60DFDCC9
+Reference = J7;
+ValeurCmp = Out 5;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD35D8
+Path = /60DF9DB9
+Reference = J6;
+ValeurCmp = Out 3;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD35C2
+Path = /60DFBF21
+Reference = J5;
+ValeurCmp = Out 4;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD35AC
+Path = /60DF7DD8
+Reference = J4;
+ValeurCmp = Out 2;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3596
+Path = /60DF34F4
+Reference = J3;
+ValeurCmp = Out 1;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3548
+Path = /60DE839A
+Reference = J1;
+ValeurCmp = Mult IN;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD38D1
+Path = /60E0DFC9
+Reference = U2;
+ValeurCmp = TL074;
+IdModule  = Sonosus:DIP-14_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD38A7
+Path = /60DD56D0
+Reference = U1;
+ValeurCmp = TL074;
+IdModule  = Sonosus:DIP-14_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD387D
+Path = /60DDF7E6
+Reference = SW5;
+ValeurCmp = on/off;
+IdModule  = My_Components:SPST_Toggle_A-3643;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3871
+Path = /60DD590D
+Reference = SW4;
+ValeurCmp = on/off;
+IdModule  = My_Components:SPST_Toggle_A-3643;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3865
+Path = /60DD51D5
+Reference = SW3;
+ValeurCmp = on/off;
+IdModule  = My_Components:SPST_Toggle_A-3643;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3859
+Path = /60DCE2CB
+Reference = SW2;
+ValeurCmp = on/off;
+IdModule  = My_Components:SPST_Toggle_A-3643;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD384D
+Path = /60E108C2
+Reference = SW1;
+ValeurCmp = on/off;
+IdModule  = My_Components:SPST_Toggle_A-3643;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3841
+Path = /60DDFF92
+Reference = RV5;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3825
+Path = /60DD5917
+Reference = RV4;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3809
+Path = /60DD58ED
+Reference = RV3;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD5A8D
+Path = /60DCE999
+Reference = RV2;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD597A
+Path = /60E10F19
+Reference = RV1;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Potentiometer_Alpha_RD901F-40-00D_centred;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD37B5
+Path = /60DFCA96
+Reference = R15;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD379E
+Path = /60DF7BFA
+Reference = R14;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3787
+Path = /60DF0C4E
+Reference = R13;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3770
+Path = /60DDFFA8
+Reference = R12;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3759
+Path = /60DD592D
+Reference = R11;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD5F29
+Path = /60DD5903
+Reference = R10;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD372B
+Path = /60DCE9AF
+Reference = R9;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3714
+Path = /60E16553
+Reference = R8;
+ValeurCmp = 100k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD36FD
+Path = /60DE1283
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD36E6
+Path = /60DE0D4C
+Reference = R6;
+ValeurCmp = 100r;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD36CF
+Path = /60DE0582
+Reference = R5;
+ValeurCmp = 100r;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD36B8
+Path = /60DE0A24
+Reference = R4;
+ValeurCmp = 100r;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD36A1
+Path = /60DDFD66
+Reference = R3;
+ValeurCmp = 100r;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD368A
+Path = /60DDF468
+Reference = R2;
+ValeurCmp = 100r;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3673
+Path = /60DE75F8
+Reference = R1;
+ValeurCmp = 10M;
+IdModule  = Sonosus:Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3580
+Path = /60DCBE80
+Reference = J2;
+ValeurCmp = Conn_02x05_Odd_Even;
+IdModule  = Sonosus:Power_Header;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3532
+Path = /60DFF41D
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3520
+Path = /60DD1201
+Reference = D2;
+ValeurCmp = 1N5817;
+IdModule  = Sonosus:Diode_DO-35;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3502
+Path = /60DD111A
+Reference = D1;
+ValeurCmp = 1N5817;
+IdModule  = Sonosus:Diode_DO-35;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD34E4
+Path = /60E01D02
+Reference = C8;
+ValeurCmp = 100pF;
+IdModule  = Sonosus:Capacitor_NonPolarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD34CF
+Path = /60E07C92
+Reference = C7;
+ValeurCmp = 100pF;
+IdModule  = Sonosus:Capacitor_NonPolarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD34BA
+Path = /60E02956
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Sonosus:Capacitor_NonPolarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD34A5
+Path = /60E01E25
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = Sonosus:Capacitor_NonPolarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3490
+Path = /60E02E5D
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Sonosus:Capacitor_NonPolarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD347B
+Path = /60E032B1
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Sonosus:Capacitor_NonPolarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD3466
+Path = /60DD2B11
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Sonosus:Capacitor_Polarized;
+EndCmp
+
+BeginCmp
+TimeStamp = 60DD33D2
+Path = /60DD2CCF
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Sonosus:Capacitor_Polarized;
+EndCmp
+
+EndListe
