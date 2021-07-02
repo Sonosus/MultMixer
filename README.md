@@ -15,6 +15,8 @@ In the mixer section, there are 5 inputs and one output. Each input has its own 
 
 This module is based on the [LMNC Buffered Multiple](https://www.lookmumnocomputer.com/1161-buffered-multiple) and the [LMNC Mini Mixer](https://www.lookmumnocomputer.com/projects#/1163-mini-mixer). Much credit to Sam for open-sourcing his modules!
 
+Interactive BOM [here](https://htmlpreview.github.io/?https://github.com/Sonosus/MultMixer/blob/main/Docs/MultMixer.html)
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
