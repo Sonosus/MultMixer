@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 4)
+    (drawings 5)
     (tracks 363)
     (zones 0)
     (modules 51)
@@ -2864,6 +2864,9 @@
     )
   )
 
+  (gr_text "Kosmo Multiple Mixer\nLayout by Sonosus July 2021\nCircuits from LOOK MUM NO COMPUTER\nCC-BY-SA 4.0" (at 197.8 173.4 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_line (start 167 215) (end 167 65) (layer Edge.Cuts) (width 0.05) (tstamp 60DD591C))
   (gr_line (start 217 215) (end 167 215) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 217 65) (end 217 215) (layer Edge.Cuts) (width 0.05))
